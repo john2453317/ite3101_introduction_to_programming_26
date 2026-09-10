@@ -1,3 +1,3 @@
-import 
 greeting_message = "Welcome to Codecademy!" 
-todays_date = 10
+current_excercise = 5
+current_excercise = 5
