@@ -1,2 +1,2 @@
-todays_date = "Welcome to Codecademy!" 
-current_excercise = 10
+greeting_message = "Welcome to Codecademy!" 
+todays_date = 10
