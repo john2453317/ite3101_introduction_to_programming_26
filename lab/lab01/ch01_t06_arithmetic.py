@@ -1,1 +1,1 @@
-product = 
+product = 6 * 6
