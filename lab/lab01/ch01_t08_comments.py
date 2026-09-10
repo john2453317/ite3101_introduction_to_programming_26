@@ -1,3 +1,3 @@
 city_name = "St. Potatosburg"
-#city_pop is Japan Song
+#this is city population
 city_pop = 340000
