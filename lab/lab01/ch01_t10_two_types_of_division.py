@@ -1,4 +1,4 @@
 cucumbers = 100
 num_people = 6
-whole_cucumbers_per_person = cucumbers * price_per_cucumber
+whole_cucumbers_per_person = cucumbers % num_people
 print(total_cost)
