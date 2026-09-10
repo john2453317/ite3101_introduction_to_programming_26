@@ -1,1 +1,1 @@
-print(".")  # Python3
+print("YOYOYO.")  # Python3
