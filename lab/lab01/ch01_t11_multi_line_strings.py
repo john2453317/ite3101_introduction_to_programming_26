@@ -1,6 +1,7 @@
 haiku = """
 The old pond, 
 A frog jumps in: 
-Plop!"""
+Plop!
+"""
 
 print(haiku)
