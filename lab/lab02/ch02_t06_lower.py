@@ -1,3 +1,3 @@
 parrot = "Ryan"
 
-print()
+print(lower(parrot))
