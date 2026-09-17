@@ -7,4 +7,4 @@
 # print(viking)
 caesat = "Graham"
 praline = "John"
-viking= Teresa
+viking = "Teresa"
