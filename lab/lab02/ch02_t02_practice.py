@@ -1,5 +1,5 @@
 # Assign your variables below, each on its own line!
-caesat = "Graham"
+caesar = "Graham"
 praline = "John"
 viking = "Teresa"
 
