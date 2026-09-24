@@ -13,4 +13,4 @@ bool_three = 2 >= 1
 bool_four = 100 != 100
 
 # Make me true!
-bool_five = None
+bool_five = 50 == ()
