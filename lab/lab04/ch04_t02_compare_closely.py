@@ -11,6 +11,6 @@ bool_three = True
 >>> -22 >= -18 True >>> -22 <= -18 False
 # Set this to True if -22 >= -18 or to False if it is not.
 bool_four = False
->>> 99 != (98 + 1) >>> 99 = (98 + 1) False
+>>> 99 != (98 + 1) >>> 99 == (98 + 1) False
 # Set this to True if 99 != (98 + 1) or to False otherwise.
 bool_five = None
