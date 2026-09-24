@@ -5,4 +5,4 @@ original = input("Enter a word:")
 
 if original
 
-empty
+else empty
