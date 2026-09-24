@@ -1,1 +1,1 @@
-pyg -> aypyg
+pyg -> pygay
