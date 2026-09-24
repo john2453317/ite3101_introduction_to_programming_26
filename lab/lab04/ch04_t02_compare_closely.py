@@ -13,4 +13,4 @@ bool_three = True
 bool_four = False
 >>> 99 != (98 + 1) True >>> 99 == (98 + 1) False
 # Set this to True if 99 != (98 + 1) or to False otherwise.
-bool_five = flase
+bool_five = False
