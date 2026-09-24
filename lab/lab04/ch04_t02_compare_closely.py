@@ -1,5 +1,5 @@
 # Assign True or False as appropriate on the lines below!
->>> 17 <= 325 True <<< 17 >>> 328 False
+>>> 17 <= 325 True >>> 17 >>> 328 False
 # Set this to True if 17 < 328 or to False if it is not.
 bool_one = True  # We did this one for you!
 >>> 100 == (2 * 50) True >>> 100 != (2 * 50) False
