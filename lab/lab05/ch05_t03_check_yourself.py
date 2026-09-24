@@ -4,6 +4,6 @@ print('Welcome to the Pig Latin Translator!')
 original = input("Enter a word:")
 
 if original > 0:
-    print()
+    print(original)
 else: 
     print("empty")
