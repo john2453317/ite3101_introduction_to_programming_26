@@ -8,7 +8,7 @@ bool_two = True
 >>> 19 <= 19 True >>> 19 >= 19 False
 # Set this to True if 19 <= 19 or to False if it is not.
 bool_three = None
-
+>>> 19 <= 19 True >>> 19 >= 19 False
 # Set this to True if -22 >= -18 or to False if it is not.
 bool_four = None
 
