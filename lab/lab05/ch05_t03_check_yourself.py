@@ -6,4 +6,4 @@ original = input("Enter a word:")
 if original
 
 else: 
-    print("empty".
+    print("empty")
