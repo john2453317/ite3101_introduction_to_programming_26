@@ -5,4 +5,5 @@ original = input("Enter a word:")
 
 if original
 
-else: empty
+else: 
+    print("empty".
