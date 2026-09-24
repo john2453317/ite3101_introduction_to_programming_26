@@ -9,6 +9,3 @@ def clinic():
     else:
         print("You didn't pick left or right! Try again.")
         clinic()
-
-
-clinic()
