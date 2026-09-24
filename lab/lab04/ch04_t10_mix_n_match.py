@@ -10,7 +10,7 @@ bool_two = (2 == 2) and "ABC" == "ABC"
 bool_three = (2 >=50) or (50 !=50)
 
 # Make me true!
-bool_four = 
+bool_four = (20*2 == 40) not 
 
 # Make me true!
 bool_five = None
