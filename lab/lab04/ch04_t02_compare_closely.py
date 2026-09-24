@@ -5,7 +5,7 @@ bool_one = True  # We did this one for you!
 >>> 100 == (2 * 50) True <<< 100 != (2 * 50) False
 # Set this to True if 100 == (2 * 50) or to False otherwise.
 bool_two = True
->>> 19 <= 19 True <<< 100 != (2 * 50) False
+>>> 19 <= 19 True <<< 19 <= 19 False
 # Set this to True if 19 <= 19 or to False if it is not.
 bool_three = None
 
