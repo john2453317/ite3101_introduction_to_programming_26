@@ -3,7 +3,7 @@ print('Welcome to the Pig Latin Translator!')
 # Start coding here!
 original = input("Enter a word:")
 
-if original
+if original > 0
 
 else: 
     print("empty")
