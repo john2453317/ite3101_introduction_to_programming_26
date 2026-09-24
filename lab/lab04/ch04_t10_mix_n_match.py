@@ -13,4 +13,4 @@ bool_three = (2 >=50) or (50 !=50)
 bool_four = not not True
 
 # Make me true!
-bool_five = None
+bool_five = 40
