@@ -7,7 +7,7 @@ bool_one = True  # We did this one for you!
 bool_two = True
 >>> 19 <= 19 True >>> 19 >= 19 False
 # Set this to True if 19 <= 19 or to False if it is not.
-bool_three = False
+bool_three = True
 >>> -22 >= -18 True >>> -22 <= -18 False
 # Set this to True if -22 >= -18 or to False if it is not.
 bool_four = False
