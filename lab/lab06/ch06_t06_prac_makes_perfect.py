@@ -1,1 +1,1 @@
-def cube(phrase:str)->str: 
+def cube(number:int)->int: 
