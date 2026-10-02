@@ -1,5 +1,5 @@
 def power():  # Add your parameters here!
-    result = 37 ** 4
+    result = base ** exponent
     print("%d to the power of %d is %d." % (base, exponent, result))
 
 
