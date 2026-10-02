@@ -1,1 +1,1 @@
-def く(phrase:str)->str: 
+def cube(phrase:str)->str: 
