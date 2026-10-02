@@ -3,7 +3,7 @@
 # explain it soon!
 
 def spam():
-    """Eggs!"""
+    """Prints 'Eggs!' docstring and outputs 'spam'."""
     print("spam")
 # Define the spam function above this line.
 spam()
