@@ -1,2 +1,2 @@
 def plane_ride_cost(city):
-    if c
+    if city == "Charlotte
