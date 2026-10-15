@@ -4,6 +4,6 @@ def shut_down(shut_down:'s')
     if yes():
         return "Shutting down"
     elif "no"():
-        return "Shutdown aborted"
+        speak() "Shutdown aborted"
     else:
-        return "Sorry"
+        speak "Sorry"
