@@ -1,4 +1,5 @@
 def shut_down(shut_down:'s')
     return shut_down
     
-    if yes()
+    if yes():
+        speak()
