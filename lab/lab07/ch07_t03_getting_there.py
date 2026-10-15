@@ -10,4 +10,5 @@ def plane_ride_cost(city):
 
 def rental_car_cost(days)
     rent = days +  40
-    if days >= 7
+    if days >= 7:
+        rent +=
