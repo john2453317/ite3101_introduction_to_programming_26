@@ -1,4 +1,4 @@
-def shut_down(shut_down:'s')"Shutting down"
+def shut_down(shut_down:'s'))->str: 
     return shut_down
     
     if yes():
