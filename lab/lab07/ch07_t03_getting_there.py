@@ -9,3 +9,4 @@ def plane_ride_cost(city):
         return 475
 
 def rental_car_cost(days)
+    if
