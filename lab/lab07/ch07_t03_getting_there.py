@@ -8,4 +8,4 @@ def plane_ride_cost(city):
     elif city == "Los Angeles":
         return 475
 
-def 
+def rental_car_cost()
