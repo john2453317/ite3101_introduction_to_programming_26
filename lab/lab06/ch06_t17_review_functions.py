@@ -3,3 +3,5 @@ def shut_down(shut_down:'s')
     
     if yes():
         return shut_down
+    elif "no"():
+        
