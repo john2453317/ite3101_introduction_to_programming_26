@@ -16,4 +16,5 @@ def rental_car_cost(days):
         return cost - 20
     else:
         return cost
+
     
