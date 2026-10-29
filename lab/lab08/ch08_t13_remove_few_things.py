@@ -1,3 +1,3 @@
 backpack = ['xylophone', 'dagger', 'tent', 'bread loaf']
 
-backpack.remove("stuart") 
+backpack.remove("dagger") 
