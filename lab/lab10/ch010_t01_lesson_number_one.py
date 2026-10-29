@@ -10,8 +10,8 @@ alice = {
     "quizzes":[],
     "tests":[]
 }
-alice = {
-    "name":"Alice",
+tyler = {
+    "name":"Tyler",
     "homework":[],
     "quizzes":[],
     "tests":[]
