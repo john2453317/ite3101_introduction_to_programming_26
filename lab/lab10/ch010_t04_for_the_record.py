@@ -18,5 +18,4 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 
-for
-print()
+for student in students:
