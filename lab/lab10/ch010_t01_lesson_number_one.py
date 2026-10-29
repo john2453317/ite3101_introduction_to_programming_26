@@ -4,8 +4,8 @@ lloyd = {
     "quizzes":[],
     "tests":[]
 }
-lloyd = {
-    "name":"Lioyd",
+alice = {
+    "name":"Alice",
     "homework":[],
     "quizzes":[],
     "tests":[]
