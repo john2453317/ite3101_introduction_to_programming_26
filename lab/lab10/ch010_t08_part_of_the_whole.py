@@ -54,7 +54,3 @@ def get_class_averge(class_list: List[dict]) -> float:
         student_avg = get_average(student)
         student_averages.append(student_avg)
     return average(student_averages)
-
-
-
-
