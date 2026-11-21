@@ -8,4 +8,4 @@ def add_function(x: int, y: int) -> int:
     return x + y
 
 
-print(add_fuction(m, n))
+print(add_function(m, n))
