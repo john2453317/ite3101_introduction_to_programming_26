@@ -4,8 +4,8 @@ n = 13
 
 
 # print(add_function(m, n))
-def add_function(x: int, y: int) -> int:
-    return x + y
+def add_function(m: int, n: int) -> int:
+    return m + n
 
 
 print(add_fuction(m, n))
