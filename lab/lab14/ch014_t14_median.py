@@ -10,4 +10,4 @@ def median(lst: List[int]) -> float:
         return m
     else:
         index = len(sorted_lst) // 2
-        return sorted_lst
+        return sorted_lst[index]
