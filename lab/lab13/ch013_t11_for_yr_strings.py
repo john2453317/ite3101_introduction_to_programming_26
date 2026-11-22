@@ -6,4 +6,5 @@ for c in thing:
 word = "eggs!"
 
 # Your code here!
-for c in wor
+for c in word:
+    
