@@ -11,4 +11,4 @@ while guesses_left > 0:
         print("You win!")
     guesses_left -= 1
 else:
-    
+    print("You lose.")
