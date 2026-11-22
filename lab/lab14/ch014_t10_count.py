@@ -1,3 +1,3 @@
 from typing import List
 
-def count
+def count(sequence: List[int], item:
