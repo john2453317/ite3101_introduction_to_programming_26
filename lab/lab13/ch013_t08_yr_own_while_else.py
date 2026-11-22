@@ -8,5 +8,5 @@ guesses_left = 3
 while guesses_left > 0:
     guess = input("Your guess: ")
     if guesses == random_number:
-        
+        print("")
     guesses_left -= 1
