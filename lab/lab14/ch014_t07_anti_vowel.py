@@ -1,3 +1,4 @@
 def anti_vowel(text:str)->str:
     result = ""
-    for char in
+    for char in text:
+        if char == "a" or 
