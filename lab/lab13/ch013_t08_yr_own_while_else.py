@@ -7,5 +7,5 @@ guesses_left = 3
 # Start your game!
 while guesses_left > 0:
     guess = input("Your guess: ")
-    if gue
+    if guesses == random
     guesses_left -= 1
