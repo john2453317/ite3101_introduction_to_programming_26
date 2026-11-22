@@ -1,3 +1,5 @@
+from typing import List
+
 
 def product(seq: List[int]) -> int:
     result = 1
